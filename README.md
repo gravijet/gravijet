@@ -1,16 +1,12 @@
-![gravijet — desktop tools, web apps and Minecraft projects](assets/header.svg)
+# gravijet
 
-I build desktop tools, web apps and Minecraft projects.
+Rust, TypeScript, Java and Kotlin.
 
-Rust · TypeScript · Java · Kotlin
+- [EasyMySQL](https://github.com/gravijet/EasyMySQL): MariaDB manager for Windows.
+- [ChessAnalyzer](https://github.com/gravijet/ChessAnalyzer): Stockfish analysis in the browser.
+- [DayDrop](https://github.com/gravijet/DayDrop): Daily facts and quizzes for Android.
+- [MinecraftAFKClient](https://github.com/gravijet/MinecraftAFKClient): Minecraft AFK client in Rust.
+- [DolphinClient](https://github.com/gravijet/DolphinClient): Experimental Minecraft client and launcher.
+- [DrDrOS](https://github.com/gravijet/DrDrOS): Experimental Linux desktop in Rust.
 
-| Project | What it does |
-| :--- | :--- |
-| [EasyMySQL](https://github.com/gravijet/EasyMySQL) | MariaDB and a database manager in one Windows application. |
-| [ChessAnalyzer](https://github.com/gravijet/ChessAnalyzer) | Stockfish analysis for PGN files and Chess.com games. |
-| [DayDrop](https://github.com/gravijet/DayDrop) | Daily facts, historical events and quizzes for Android. |
-| [MinecraftAFKClient](https://github.com/gravijet/MinecraftAFKClient) | A Rust Minecraft client for AFK sessions. |
-| [DolphinClient](https://github.com/gravijet/DolphinClient) | An experimental Minecraft client and launcher. |
-| [DrDrOS](https://github.com/gravijet/DrDrOS) | An experimental Linux desktop written in Rust. |
-
-Minecraft plugins and community tools: [gravijetnet](https://github.com/gravijetnet).
+[Minecraft plugins](https://github.com/gravijetnet)
