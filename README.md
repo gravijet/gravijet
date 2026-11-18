@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="gravijet">
 <a href="https://mysql.benjaminberger.at"><img src="assets/easymysql.svg" width="100%" alt="EasyMySQL: MariaDB manager with an SQL editor, ER diagrams, a query builder, backups and a built-in code editor."></a>
-<a href="https://afksytems.de"><img src="assets/afksystems.svg" width="100%" alt="AFKSystems: Keeps Minecraft accounts online on our machines, with chat, commands and macros in a web panel."></a>
+<a href="https://afksystems.de"><img src="assets/afksystems.svg" width="100%" alt="AFKSystems: Keeps Minecraft accounts online on our machines, with chat, commands and macros in a web panel."></a>
 <a href="https://winmorph.benjaminberger.at"><img src="assets/winmorph.svg" width="100%" alt="WinMorph: Reskins Windows 10 and 11 with 16 complete desktop styles, from Windows 95 to macOS and Arch."></a>
 <a href="https://github.com/gravijet/WebConsole"><img src="assets/webconsole.svg" width="100%" alt="WebConsole: Dashboard for a Linux server: live monitoring, processes, Docker, services, nginx and backups."></a>
 <a href="https://github.com/gravijet/SSHConsole"><img src="assets/sshconsole.svg" width="100%" alt="SSHConsole: A real SSH terminal in the browser, over HTTPS, for networks that block port 22."></a>
